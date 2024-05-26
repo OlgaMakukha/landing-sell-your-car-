@@ -29,7 +29,7 @@ ul li {
 }
 
 .main-section {
-    background: linear-gradient(rgba(221, 34, 17, 0.87), rgba(221, 34, 17, 0.87)), url(/img/main-photo.jpg);
+    background: linear-gradient(rgba(221, 34, 17, 0.87), rgba(221, 34, 17, 0.87)), url(img/main-photo.jpg);
     background-repeat: no-repeat;
     background-size: cover;
     width: 100%;
